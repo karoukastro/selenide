@@ -56,5 +56,5 @@ public class MovieTests extends BaseTest {
         movie.search("Batman").items().shouldHaveSize(2);
     }
 
-    //Testing Git
+    //Testing Git 2
 }
